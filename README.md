@@ -5,6 +5,8 @@
 Developer of
 - Backend using Java, NodeJS
 - Blockchain using Fabric
+
+Devops using AWS, Docker
 ~~~
 
 ## My Homepage Link(get ready)

@@ -34,22 +34,6 @@ author:
     # weibo:
     email:    mailto:variu0120@gmail.com
 
-# Navigation (2nd level links supported)
-#nav:
-#  Home:
-#    - '/blog/'
-#  Categories:
-#    - '/'
-
-#  About:
-#    - '/about/'
-#  Search:
-#    - '/search/'
-
-# Where are tags and categories displayed
-#tag_page: '/'
-#category_page: '/'
-
 
 # Puglins
 #mathjax: true # whether support mathjax
