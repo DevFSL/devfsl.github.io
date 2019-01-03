@@ -1,10 +1,10 @@
 # Site Info
-title: 'Jake's Profile'
-tagline: 'test'
-description: 'desc'
+title: "Jake's Profile"
+tagline: "test"
+description: "desc"
 baseurl: ""
 url: https://variu.github.io
-logo: ''
+logo: ""
 
 # Site configurations
 gems:
