@@ -11,10 +11,10 @@ Devops using AWS, Docker
 
 ## My Homepage Link(get ready)
 
-- [blog](https://blog.jake-park.info)
-- [tech blog](https://tech.jake-park.info)
-- [git](https://code.jake-park.info)
 - [profile](https://jake-park.info)
+- [blog](https://blog.jake-park.info)
+- [dev blog](https://dev.jake-park.info)
+- [git](https://github.com/variu)
 - [linkedin](https://jake-park.info)
     
 ## Reference
