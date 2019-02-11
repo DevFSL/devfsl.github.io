@@ -34,6 +34,8 @@ author:
     # weibo:
     email:    mailto:variu0120@gmail.com
 
+google_analytics:
+  ua: 'UA-134234881-1'
 
 # Puglins
 #mathjax: true # whether support mathjax
